@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi there, I’m a Full Stack Developer
 
-<!--
-**jasminahmic/jasminahmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have **nearly 3 years of experience** building modern web applications — from idea to production.
 
-Here are some ideas to get you started:
+### 🚀 What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+- React  
+- Angular  
+- Responsive & interactive UI
+
+**Backend**
+- Laravel  
+- RESTful APIs  
+- Scalable architecture
+
+**Team Experience**
+- Contributed to an online application used by **5,000+ active users**
+- Participated in planning, development, testing, and deployment
+
+**Focus**
+- Creating clean, efficient, and user-focused web solutions  
+- Improving performance and user experience
+
+### 🎯 What I’m looking for
+
+I'm interested in **ambitious projects** aimed at larger markets, where I can contribute my skills and grow as a developer.
+
+📫 Feel free to connect with me — I’m always open to new opportunities and collaborations.
