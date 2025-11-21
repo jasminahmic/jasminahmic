@@ -6,12 +6,14 @@ I have **nearly 3 years of experience** building modern web applications — fro
 
 **Frontend**
 - React  
-- Angular  
+- Angular
+- Next.js  
 - Responsive & interactive UI
 
 **Backend**
-- Laravel  
-- RESTful APIs  
+- Laravel
+- .NET
+- RESTful APIs 
 - Scalable architecture
 
 **Team Experience**
