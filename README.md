@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m a Full Stack Developer
 
-I have **nearly 3 years of experience** building modern web applications — from idea to production.
+I have over 3 years of experience building modern web applications — from idea to production.
 
 ### 🚀 What I work with
 
@@ -13,7 +13,7 @@ I have **nearly 3 years of experience** building modern web applications — fro
 **Backend**
 - Laravel
 - .NET
-- RESTful APIs 
+- FastAPI
 - Scalable architecture
 
 **Team Experience**
