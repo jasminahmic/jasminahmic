@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m a Full Stack Developer
 
-I have over 3 years of experience building modern web applications — from idea to production.
+I’m a Full Stack Developer with **3+ years of experience** building and maintaining **production-ready web applications**, from idea to deployment.
 
 ### 🚀 What I work with
 
