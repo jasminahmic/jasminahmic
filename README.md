@@ -2,7 +2,7 @@
 
 **Full Stack Developer** · 3+ years building production web applications, from first idea to deployment
 
-I build fast, maintainable web apps with modern frontend frameworks and solid backend architecture. I've helped deliver a platform used by **5,000+ active users**, and I care about clean code, good performance and products people actually enjoy using.
+I build fast, maintainable web apps with modern frontend frameworks and solid backend architecture. I've helped deliver production platforms used by real users at scale, and I care about clean code, high performance and products people genuinely enjoy using.
 
 ---
 
@@ -23,7 +23,7 @@ I build fast, maintainable web apps with modern frontend frameworks and solid ba
 
 ### 💼 Experience Highlights
 
-- **Production at scale:** contributed to an online application serving **5,000+ active users**
+- **Production at scale:** contributed to an application with **100,000+ downloads**
 - **Full delivery cycle:** involved in planning, development, testing and deployment
 - **Performance & UX:** improved load times and user experience across the frontend and backend
 - **Team player:** worked in collaborative, agile teams with code reviews and shared ownership
